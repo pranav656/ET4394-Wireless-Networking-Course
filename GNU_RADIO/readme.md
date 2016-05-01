@@ -1,1 +1,1 @@
-This folder contains the report and the GNU block diagram of the assignment.
+This folder contains the report, the GNU block diagram of the assignment and the matlab script used for finding ROC .
